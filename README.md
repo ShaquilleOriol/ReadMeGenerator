@@ -1,4 +1,7 @@
 # ReadMeGenerator
 
 
-<img width="1479" alt="Screen Shot 2021-02-04 at 11 21 13 PM" src="https://user-images.githubusercontent.com/75397309/111547874-d4599300-8747-11eb-9361-585ee6a599b1.png">
+
+
+<img width="2048" alt="Screen Shot 2021-03-17 at 5 42 01 PM" src="https://user-images.githubusercontent.com/75397309/111548108-30bcb280-8748-11eb-99f9-9cfd85aec13b.png">
+
